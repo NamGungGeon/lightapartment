@@ -1,0 +1,10 @@
+{
+  "name": "lightapartment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "prettier": "^2.8.8"
+  }
+}
